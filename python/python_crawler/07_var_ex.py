@@ -6,3 +6,4 @@ result = principal * interest
 print(result)
 
 print("year:", result * 12)
+ 
